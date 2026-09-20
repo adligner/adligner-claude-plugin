@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adligner": {
+      "type": "http",
+      "url": "https://mcp.adligner.com/mcp"
+    }
+  }
+}

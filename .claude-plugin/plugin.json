@@ -1,0 +1,29 @@
+{
+  "name": "adligner",
+  "displayName": "AdLigner",
+  "version": "1.0.0",
+  "description": "A senior paid-media strategist for the ad accounts you already run. Connect Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads and ChatGPT Ads, plus Google Analytics 4 and Klaviyo, then ask in plain language: how last week went, where spend is being wasted, whether tracking is trustworthy. Analysis tools check budget pacing, wasted spend, bid efficiency, creative fatigue, audience overlap, placement waste, dayparting, signal health and conversion gaps, and explain findings in context rather than handing back a dashboard. Every tool that would change an account first returns a plain-language preview and runs only on your explicit confirmation; new campaigns and ads are always created paused. Connects to AdLigner's remote MCP server (mcp.adligner.com) over OAuth 2.1 — no hooks, no telemetry, and data flows only to AdLigner's own API.",
+  "author": {
+    "name": "AdLigner",
+    "url": "https://adligner.com"
+  },
+  "homepage": "https://adligner.com",
+  "repository": "https://github.com/adligner/adligner-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "advertising",
+    "ads",
+    "google-ads",
+    "meta-ads",
+    "tiktok-ads",
+    "linkedin-ads",
+    "chatgpt-ads",
+    "ga4",
+    "klaviyo",
+    "ppc",
+    "paid-media",
+    "marketing",
+    "performance-marketing",
+    "mcp"
+  ]
+}

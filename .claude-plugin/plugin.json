@@ -8,7 +8,10 @@
     "url": "https://adligner.com"
   },
   "homepage": "https://adligner.com",
+  "documentationUrl": "https://adligner.com/docs",
+  "supportUrl": "https://adligner.com/support",
   "privacyPolicyUrl": "https://adligner.com/privacy",
+  "termsOfServiceUrl": "https://adligner.com/terms",
   "repository": "https://github.com/adligner/adligner-claude-plugin",
   "license": "MIT",
   "keywords": [

@@ -1,7 +1,7 @@
 {
   "name": "adligner",
   "metadata": {
-    "description": "AdLigner paid-media strategist for Claude Code and Cowork. Analyze and act on Google, Meta, TikTok, LinkedIn and ChatGPT Ads accounts — with a human approving every change."
+    "description": "AdLigner paid-media strategist for Claude Code and Cowork. Analyze and act on Google, Meta, Microsoft, TikTok, LinkedIn, Reddit and ChatGPT Ads accounts — with a human approving every change."
   },
   "owner": {
     "name": "AdLigner",
@@ -14,7 +14,7 @@
       "displayName": "AdLigner",
       "version": "1.0.0",
       "source": "./",
-      "description": "Connect Claude to the ad accounts you already run across Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads and ChatGPT Ads, plus Google Analytics 4 and Klaviyo. Ask for weekly reviews, quick wins, wasted spend and conversion reconciliation in plain language. Every change is confirmation-gated and new campaigns are created paused.",
+      "description": "Connect Claude to the ad accounts you already run across Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads, LinkedIn Ads, Reddit Ads and ChatGPT Ads, plus Google Analytics 4 and Klaviyo. Ask for weekly reviews, quick wins, wasted spend and conversion reconciliation in plain language. Every change is confirmation-gated and new campaigns are created paused.",
       "author": {
         "name": "AdLigner",
         "email": "support@adligner.com"
@@ -24,8 +24,10 @@
         "ads",
         "google-ads",
         "meta-ads",
+        "microsoft-ads",
         "tiktok-ads",
         "linkedin-ads",
+        "reddit-ads",
         "chatgpt-ads",
         "ppc",
         "paid-media",

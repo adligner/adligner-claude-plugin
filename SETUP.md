@@ -30,7 +30,8 @@ accounts are enabled on each, and what appears under `dataSources`.
 If it comes back with no platforms, the user has an AdLigner account but has not
 linked an ad platform yet. Linking happens in the AdLigner web app, not from
 chat: send them to <https://adligner.com> → Connect, and have them link Google
-Ads, Meta Ads, TikTok Ads, LinkedIn Ads or ChatGPT Ads. Google Analytics 4 and
+Ads, Meta Ads, Microsoft Advertising, TikTok Ads, LinkedIn Ads, Reddit Ads or
+ChatGPT Ads. Google Analytics 4 and
 Klaviyo can be connected there too, and make the analysis considerably better —
 GA4 lets AdLigner check whether platform-reported conversions are trustworthy.
 

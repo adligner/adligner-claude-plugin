@@ -9,9 +9,9 @@ commands. AdLigner itself is a hosted service; you need a free account at
 
 ## What it does
 
-**Connect once, ask in plain language.** Link Google Ads, Meta Ads, TikTok Ads,
-LinkedIn Ads and ChatGPT Ads, plus Google Analytics 4 and Klaviyo, in the
-AdLigner web app. Then ask things like "how did last week go", "where am I
+**Connect once, ask in plain language.** Link Google Ads, Meta Ads, Microsoft
+Advertising, TikTok Ads, LinkedIn Ads, Reddit Ads and ChatGPT Ads, plus Google
+Analytics 4 and Klaviyo, in the AdLigner web app. Then ask things like "how did last week go", "where am I
 wasting spend", or "compare Meta's conversions with what GA4 saw".
 
 **Findings, not dashboards.** The analysis tools work through the checklist an
